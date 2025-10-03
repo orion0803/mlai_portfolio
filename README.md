@@ -13,7 +13,7 @@ conda create -n mlai python=3.10
 conda activate mlai
 
 # Install: pytorch w/ CUDA support
-# pip install torch torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/cu113
+pip install torch torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/cu113
 # Install: pytorch w/o CUDA support
 pip install torch torchvision torchaudio
 

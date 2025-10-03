@@ -1,11 +1,11 @@
 # mlai_portfolio
-# Sentiment Analysis Project
+## Sentiment Analysis Project
 
 ## Environment Setup
 - Python 3.10+
 - Install dependencies:
   ```bash
-
+  
 ## Create an environment:
 conda create -n mlai python=3.10
 

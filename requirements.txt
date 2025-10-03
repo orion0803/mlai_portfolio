@@ -1,3 +1,4 @@
 #insure that the following are installed on the environment
-transformers torch
+transformers
+torch
 ipywidgets

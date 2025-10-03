@@ -22,3 +22,6 @@ pip install transformers datasets accelerate emoji==0.6.0
 ## Xet Storage
 pip install hf_xet
 pip install huggingface_hub[hf_xet]
+
+## Test out binder badge
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/orion0803/mlai_portfolio/HEAD)
